@@ -7,7 +7,7 @@
   <h3 align="center"> Project "Le Wagon Batch  #1412" : </h3>
 
   <p align="center">
-    Here is the project implemented by Jean DE GRUBEN, Arthur DUBOIS, Delphine SABATIER, Loïc SAUVAGE during our two-weeks projects oriented during the Data Science "Le Wagon" full-time courses.
+    Group project developed at the conclusion of Le Wagon's 10-week intensive bootcamp, batch #1412.
   </p>
 </div>
 
@@ -40,70 +40,59 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Our project was designed in order to answer [the Kaggle Competition] about the modelisation of production and consumption in Estonia. Our objective was "giving a prediction about production and consumption of clients in Estonia over a 4 days periode of time". We decided to use 2 models of Machine Learning : the Autoarima and the Prophet models.
+Our project was designed to address the [Enefit Kaggle Competition](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers) on the modeling of production and consumption in Estonia. 
+Our objective was to 'provide predictions for the production and consumption of clients in Estonia over a 4-day period.' To accomplish this, we opted to use two machine learning models: the Autoarima and the Prophet models.
 
-We used the lib "StatsForecast" because  the number of data was huge and the numebr of seasonality too big. A classique Autoarima model was not able to run completly
+The user journey involves accessing the user interface via Streamlit, allowing the selection of date, business or individual, county, product type, and model. 
+The API initiates a request to the Google platform, extracting the required dataset through BigQuery. The data is then preprocessed using pipelines and fed into the selected model. Finally, the predictions for the next four days are displayed through graphs
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 ### Built With
 
-Our package is based on :
+Our package is built on the following components:
 
-* For the data analysis :
-  - Pandas
-  - Seaborn
-  - Numpy
-  - Scikit-learn
+Data Analysis:
+- Pandas
+- Seaborn
+- Numpy
+- Scikit-learn
 
-* For the "Prophet" predicction :
-  - Prophet
+Prophet Prediction:
+- Prophet
 
-* For the "Auto-Arima" predicction :
-  - Statsforecast
+Auto-Arima Prediction:
+- Statsforecast
 
-* For all the exchange with Google Cloud Storage :
-  - google-cloud-storage
-  - google-cloud-bigquery
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Installation
-In order to use our package on your computer, you need to download the "package_enefit" folder and install it with
-
-### Installation
-
-This is an example of how to list things you need to use the software and how to install it.
-* global use
-  ```sh
-  pip install package_enefit
-  ```
-
-* local use
-  ```sh
-  pip install package_enefit
-  ```
+Google Cloud Storage and BigQuery Integration:
+- google-cloud-storage
+- google-cloud-bigquery
   
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Try on the Baseline "Autoa-arima"
+- [x] Try the baseline "AutoArima"
 - [x] Upgrade the Autoarima
-- [x] Implemente a prophet prediction
-- [ ] Add a new Deep Learning model after the ML predictions
+- [x] Implement Prophet model
+- [ ] Add a new Deep Learning model after the Machine Learning predictions
+<p align="right"><a href="#readme-top">back to top</a></p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- DEMO -->
+## Demoday - 8 décembre 2024
+
+On the final day of Le Wagon bootcamp, the project presentation was conducted. 
+
+- [Demo Day](https://drive.google.com/file/d/1c_RxfPp4NmLZI67AzPfI7oamB_BI5sNJ/view?usp=drive_link)
+- [Slides of presentation](https://pitch.com/v/AI-Energy-Model-Pitch---ENEFIT-Estonia-zq9kd2/85ed3743-082e-408f-a478-1d8c33c14433)
+
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- CONTRIBUTING -->
-## Team Working on the project :
+## Team members :
 
-Here is the 4 members of the team who have worked on the projet :
+The four members of the team who have worked on the project
 - Jean DE GRUBEN - [GitHub](https://github.com/jdgruben)
 - Delphine SABATIER - [GitHub](https://github.com/DelphineSabatier)
 - Loïc SAUVAGE - [GitHub](https://github.com/LoloLeCode/LoloLeCode)
@@ -115,4 +104,4 @@ Here is the 4 members of the team who have worked on the projet :
 Distributed under the MIT License.
 See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
