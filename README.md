@@ -4,12 +4,8 @@
 <br />
 <div align="center">
 
-  <h3 align="center"> Project "Le Wagon Batch  #1412" : </h3>
-
-  <p align="center">
-    Group project developed at the conclusion of Le Wagon's 10-week intensive bootcamp, batch #1412.
-  </p>
-</div>
+  <h3 align="center"> Project Predict Energy Behavior of Prosumers  </h3>
+   <h3 align="center"> "Le Wagon Batch  #1412" </h3>
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
@@ -56,9 +52,9 @@ Google Cloud Storage and BigQuery Integration:
 <p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- DEMO -->
-## Demoday - 8 décembre 2024
+## Demoday - December 8th 2023
 
-On the final day of Le Wagon bootcamp, the project presentation was conducted. 
+On the final day of Le Wagon bootcamp, the project is presented. 
 
 - [Demo Day](https://drive.google.com/file/d/1c_RxfPp4NmLZI67AzPfI7oamB_BI5sNJ/view?usp=drive_link)
 - [Slides of presentation](https://pitch.com/v/AI-Energy-Model-Pitch---ENEFIT-Estonia-zq9kd2/85ed3743-082e-408f-a478-1d8c33c14433)
