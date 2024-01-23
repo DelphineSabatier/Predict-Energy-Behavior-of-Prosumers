@@ -58,7 +58,7 @@ Google Cloud Storage and BigQuery Integration:
 On the final day of Le Wagon bootcamp, the project is presented. 
 
 - [Demo Day](https://drive.google.com/file/d/1c_RxfPp4NmLZI67AzPfI7oamB_BI5sNJ/view?usp=drive_link)
-- [Slides of presentation](https://pitch.com/v/AI-Energy-Model-Pitch---ENEFIT-Estonia-zq9kd2/85ed3743-082e-408f-a478-1d8c33c14433)
+- [Slides of presentation](https://pitch.com/v/AI-Energy-Model-Pitch---ENEFIT-Estonia-zq9kd2/a5669e99-92f9-44ed-b1ac-0d4e63f5f638)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
