@@ -114,9 +114,9 @@ This is an example of how to list things you need to use the software and how to
 
 Here is the 4 members of the team who have worked on the projet :
 - Jean DE GRUBEN - [GitHub](https://github.com/jdgruben)
-- Delphine SABATIE
+- Delphine SABATIER - [GitHub](https://github.com/DelphineSabatier)
 - Loïc SAUVAGE - [GitHub](https://github.com/LoloLeCode/LoloLeCode)
-- Arthur DUBOIS
+- Arthur DUBOIS - [GitHub](https://github.com/Zebho)
 
 
 
