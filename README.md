@@ -7,7 +7,7 @@
   <h3 align="center"> Project "Le Wagon Batch  #1412" : </h3>
 
   <p align="center">
-    Here is the project implemented by Jean DE GRUBEN, Delphine SABATIER, Loïc SAUVAGE and I, during our two-weeks projects oriented during the Data Science "Le Wagon" full-time courses.
+    Here is the project implemented by Jean DE GRUBEN, Arthur DUBOIS, Delphine SABATIER, Loïc SAUVAGE during our two-weeks projects oriented during the Data Science "Le Wagon" full-time courses.
   </p>
 </div>
 
