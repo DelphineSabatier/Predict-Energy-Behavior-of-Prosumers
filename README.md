@@ -4,8 +4,9 @@
 <br />
 <div align="center">
 
-  <h3 align="center"> Project Predict Energy Behavior of Prosumers  </h3>
-   <h3 align="center"> "Le Wagon Batch  #1412" </h3>
+<h1 align="center"> Project Predict Energy Behavior of Prosumers  </h1>
+<h3 align="center"> Group project completed during the final two weeks of the Le Wagon Data Science bootcamp, Batch #1412 </h3>
+</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
@@ -14,13 +15,13 @@
 
 <b>Objective</b>: Provide predictions for the production and consumption of clients in Estonia over a 4-day period.' To accomplish this, we opted to use two machine learning models: the Autoarima and the Prophet models.
 
-<b>User journey</b>: The user chose through a web page coded with Streamlit several parameters: date, business or individual, county, product type, and model. 
+<b>User journey</b>: The user select through a web page coded with Streamlit several parameters: date, business or individual, county, product type, and model. 
 The API initiates a request to the Google platform, extracting the required dataset through BigQuery. The data is then preprocessed and fed into the selected model. 
 Finally, the predictions for the next four days are displayed through graphs on the streamlit to the user.
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
-### Built With
+## Built With
 
 Our package is built on the following components:
 
