@@ -38,13 +38,15 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About the project
 
-Our project was designed to address the [Enefit Kaggle Competition](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers) on the modeling of production and consumption in Estonia. 
-Our objective was to 'provide predictions for the production and consumption of clients in Estonia over a 4-day period.' To accomplish this, we opted to use two machine learning models: the Autoarima and the Prophet models.
+<b>Project</b>: Design to address the [Enefit Kaggle Competition](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers) on the modeling of production and consumption in Estonia. 
 
-The user journey involves accessing the user interface via Streamlit, allowing the selection of date, business or individual, county, product type, and model. 
-The API initiates a request to the Google platform, extracting the required dataset through BigQuery. The data is then preprocessed using pipelines and fed into the selected model. Finally, the predictions for the next four days are displayed through graphs
+<b>Objective</b>: Provide predictions for the production and consumption of clients in Estonia over a 4-day period.' To accomplish this, we opted to use two machine learning models: the Autoarima and the Prophet models.
+
+<b>User journey</b>: The user chose through a web page coded with Streamlit several parameters: date, business or individual, county, product type, and model. 
+The API initiates a request to the Google platform, extracting the required dataset through BigQuery. The data is then preprocessed and fed into the selected model. 
+Finally, the predictions for the next four days are displayed through graphs on the streamlit to the user.
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
