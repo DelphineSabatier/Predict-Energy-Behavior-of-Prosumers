@@ -66,10 +66,10 @@ On the final day of Le Wagon bootcamp, the project is presented.
 ## Team members :
 
 The four members of the team who have worked on the project
-- Jean DE GRUBEN - [GitHub](https://github.com/jdgruben)
-- Delphine SABATIER - [GitHub](https://github.com/DelphineSabatier)
-- Loïc SAUVAGE - [GitHub](https://github.com/LoloLeCode/LoloLeCode)
-- Arthur DUBOIS - [GitHub](https://github.com/Zebho)
+- Jean DE GRUBEN
+- Delphine SABATIER
+- Loïc SAUVAGE
+- Arthur DUBOIS
 
 <!-- LICENSE -->
 ## License
